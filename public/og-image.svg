@@ -1,0 +1,39 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F6F3EE"/>
+  <rect x="38" y="38" width="1124" height="554" stroke="#111111" stroke-opacity="0.14"/>
+  <rect x="58" y="58" width="1084" height="514" fill="#FBF9F5"/>
+  <rect x="116" y="102" width="448" height="426" fill="#E9E3DB"/>
+  <image
+    href="https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&amp;fit=crop&amp;w=1200&amp;q=80"
+    x="116"
+    y="102"
+    width="448"
+    height="426"
+    preserveAspectRatio="xMidYMid slice"
+  />
+  <rect x="116" y="102" width="448" height="426" fill="url(#paint0_linear)"/>
+  <line x1="636" y1="144.5" x2="1038" y2="144.5" stroke="#111111" stroke-opacity="0.18"/>
+  <line x1="636" y1="489.5" x2="1038" y2="489.5" stroke="#111111" stroke-opacity="0.18"/>
+  <text fill="#111111" fill-opacity="0.52" xml:space="preserve" style="white-space: pre" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="0.44em">
+    <tspan x="637" y="127.11">WEDDING INVITATION</tspan>
+  </text>
+  <text fill="#111111" xml:space="preserve" style="white-space: pre" font-family="Georgia, 'Times New Roman', serif" font-size="74" letter-spacing="0.1em">
+    <tspan x="636" y="253.514">DONGJUN</tspan>
+    <tspan x="636" y="334.514">&#x26; HAYEON</tspan>
+  </text>
+  <text fill="#111111" fill-opacity="0.72" xml:space="preserve" style="white-space: pre" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="24" letter-spacing="0.18em">
+    <tspan x="639" y="387.688">2026. 09. 05 SAT 1:00 PM</tspan>
+  </text>
+  <text fill="#111111" fill-opacity="0.68" xml:space="preserve" style="white-space: pre" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="26" letter-spacing="0.02em">
+    <tspan x="639" y="447.727">강남역 인근에서 열리는 결혼식에</tspan>
+    <tspan x="639" y="483.727">소중한 분들을 초대합니다.</tspan>
+  </text>
+  <circle cx="1088" cy="518" r="8" fill="#111111" fill-opacity="0.12"/>
+  <circle cx="1088" cy="518" r="3.5" fill="#111111"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="340" y1="102" x2="340" y2="528" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111111" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#111111" stop-opacity="0.28"/>
+    </linearGradient>
+  </defs>
+</svg>
